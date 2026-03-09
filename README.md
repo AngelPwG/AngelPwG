@@ -20,7 +20,7 @@
 
 ## ⚙️ What I'm Building
 
-### 💾 [AngelDB](https://github.com/AngelPwG/AngelDB) &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/>
+### 💾 [AngelDB](https://github.com/AngelPwG/AngelDB) &nbsp; <img src="https://skillicons.dev/icons?i=java" width="20"/>
 > *No external libraries · Built from scratch*
 
 A fully hand-rolled database engine with:
@@ -36,14 +36,14 @@ CLI → Spring Boot → Buffer Pool → Disk Manager → .db binary file
                               [ B+ Tree Index ]
 ```
 
-### 🦀 [rust-data-structures](https://github.com/AngelPwG/rust-data-structures) &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="20"/>
+### 🦀 [rust-data-structures](https://github.com/AngelPwG/rust-data-structures) &nbsp; <img src="https://skillicons.dev/icons?i=rust" width="20"/>
 > *A personal library to practice Rust before diving deeper into systems projects*
 
 Low-level data structure implementations — every split, borrow, and merge written by hand.
 
-### 🎲 [RPG-Manager](https://github.com/AngelPwG/RPG-Manager) &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/>
+### 🎲 [RPG-Manager](https://github.com/AngelPwG/RPG-Manager) &nbsp; <img src="https://skillicons.dev/icons?i=java" width="20"/>
 
-### 🔩 [c-data-structures](https://github.com/AngelPwG/c-data-structures) &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20"/>
+### 🔩 [c-data-structures](https://github.com/AngelPwG/c-data-structures) &nbsp; <img src="https://skillicons.dev/icons?i=c" width="20"/>
 
 ---
 
