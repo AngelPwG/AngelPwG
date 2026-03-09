@@ -12,6 +12,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Database+engine+from+scratch;B%2B+Tree+%7C+Buffer+Pool+%7C+Disk+Manager;Rust+%7C+Java+%7C+Systems+%26+Backend)](https://git.io/typing-svg)
 
+![](https://komarev.com/ghpvc/?username=AngelPwG&color=00ff9c&style=flat-square&label=PROFILE+VIEWS)
+
 </div>
 
 ---
@@ -47,26 +49,19 @@ Low-level data structure implementations — every split, borrow, and merge writ
 
 ## 🛠️ Stack
 
-```
-Languages    │  Java · Rust · C · Python
-Backend      │  Spring Boot · REST · Docker
-Systems      │  File I/O · Memory Management · Data Structures
-Tools        │  Git · Maven · Linux
-```
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![AngelPwG's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelPwG&show_icons=true&theme=dark&hide_border=true&title_color=00FF9C&icon_color=00FF9C&text_color=ffffff&bg_color=0d1117&count_private=true)
-
-&nbsp;
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelPwG&layout=compact&theme=dark&hide_border=true&title_color=00FF9C&text_color=ffffff&bg_color=0d1117&langs_count=6)
-
-&nbsp;
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AngelPwG&theme=dark&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&background=0d1117&dates=ffffff)
 
@@ -77,7 +72,7 @@ Tools        │  Git · Maven · Linux
 ## 🎯 Goals
 
 - 🎓 Software Engineering · Class of 2027
-- 🏢 Targeting backend/systems roles @ Oracle · TCS · Intel
+- 🏢 Targeting backend/systems roles
 - 🔩 Obsessed with what happens *below* the abstraction layer
 
 ---
