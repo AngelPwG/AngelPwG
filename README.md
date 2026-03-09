@@ -20,8 +20,8 @@
 
 ## ⚙️ What I'm Building
 
-### 🗄️ [AngelDB](https://github.com/AngelPwG/AngelDB) — Custom Database Engine
-> *Java · No external libraries · Built from scratch*
+### ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) [AngelDB](https://github.com/AngelPwG/AngelDB) — Custom Database Engine
+> *No external libraries · Built from scratch*
 
 A fully hand-rolled database engine with:
 
@@ -36,14 +36,14 @@ CLI → Spring Boot → Buffer Pool → Disk Manager → .db binary file
                               [ B+ Tree Index ]
 ```
 
-### 🌲 [rust-data-structures](https://github.com/AngelPwG/rust-data-structures) — Core DSA in Rust
+### ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) [rust-data-structures](https://github.com/AngelPwG/rust-data-structures) — Core DSA in Rust
 > *A personal library to practice Rust before diving deeper into systems projects*
 
 Low-level data structure implementations — every split, borrow, and merge written by hand.
 
-### ⚔️ [RPG-Manager](https://github.com/AngelPwG/RPG-Manager) — Java Backend Project
+### ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) [RPG-Manager](https://github.com/AngelPwG/RPG-Manager) — Java Backend Project
 
-### 🔬 [c-data-structures](https://github.com/AngelPwG/c-data-structures) — DSA in C
+### ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) [c-data-structures](https://github.com/AngelPwG/c-data-structures) — DSA in C
 
 ---
 
