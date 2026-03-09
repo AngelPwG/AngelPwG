@@ -60,9 +60,15 @@ Tools        │  Git · Maven · Linux
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AngelPwG&show_icons=true&theme=dark&hide_border=true&title_color=00FF9C&icon_color=00FF9C&text_color=ffffff&bg_color=0d1117)
+![AngelPwG's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelPwG&show_icons=true&theme=dark&hide_border=true&title_color=00FF9C&icon_color=00FF9C&text_color=ffffff&bg_color=0d1117&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelPwG&layout=compact&theme=dark&hide_border=true&title_color=00FF9C&text_color=ffffff&bg_color=0d1117)
+&nbsp;
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelPwG&layout=compact&theme=dark&hide_border=true&title_color=00FF9C&text_color=ffffff&bg_color=0d1117&langs_count=6)
+
+&nbsp;
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AngelPwG&theme=dark&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&background=0d1117&dates=ffffff)
 
 </div>
 
