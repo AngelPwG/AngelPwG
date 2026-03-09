@@ -20,7 +20,7 @@
 
 ## ⚙️ What I'm Building
 
-### ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) [AngelDB](https://github.com/AngelPwG/AngelDB) — Custom Database Engine
+### 💾 [AngelDB](https://github.com/AngelPwG/AngelDB) &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/>
 > *No external libraries · Built from scratch*
 
 A fully hand-rolled database engine with:
@@ -36,14 +36,14 @@ CLI → Spring Boot → Buffer Pool → Disk Manager → .db binary file
                               [ B+ Tree Index ]
 ```
 
-### ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) [rust-data-structures](https://github.com/AngelPwG/rust-data-structures) — Core DSA in Rust
+### 🦀 [rust-data-structures](https://github.com/AngelPwG/rust-data-structures) &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="20"/>
 > *A personal library to practice Rust before diving deeper into systems projects*
 
 Low-level data structure implementations — every split, borrow, and merge written by hand.
 
-### ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) [RPG-Manager](https://github.com/AngelPwG/RPG-Manager) — Java Backend Project
+### 🎲 [RPG-Manager](https://github.com/AngelPwG/RPG-Manager) &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/>
 
-### ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) [c-data-structures](https://github.com/AngelPwG/c-data-structures) — DSA in C
+### 🔩 [c-data-structures](https://github.com/AngelPwG/c-data-structures) &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20"/>
 
 ---
 
