@@ -20,6 +20,21 @@
 
 ## ⚙️ What I'm Building
 
+### 📝 [text-editor](https://github.com/AngelPwG/text-editor) &nbsp; <img src="https://skillicons.dev/icons?i=rust" width="20"/>
+> *Built from scratch in Rust - with few external libraries for terminal control*
+
+A terminal text editor built from first principles in Rust:
+
+- **Gap Buffer** — O(1) local insertions and deletions, dynamic gap expansion
+- **Raw Terminal** — termios raw mode, ANSI escape codes, manual cursor control
+- **Mouse Support** — click-to-position via VT100 mouse protocol
+- **Vim-like Modes** — Normal, Insert, Command (`:w`, `:q`, `:wq`)
+```
+keystroke → read_key() → process_mode() → GapBuffer → render()
+                                               ↑
+                                    [ gap_start | gap | gap_end ]
+```
+
 ### 💾 [AngelDB](https://github.com/AngelPwG/AngelDB) &nbsp; <img src="https://skillicons.dev/icons?i=java" width="20"/>
 > *No external libraries · Built from scratch*
 
