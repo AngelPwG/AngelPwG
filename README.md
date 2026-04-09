@@ -90,10 +90,3 @@ Low-level data structure implementations — every split, borrow, and merge writ
 - 🏢 Targeting backend/systems roles
 - 🔩 Obsessed with what happens *below* the abstraction layer
 
----
-
-<div align="center">
-
-*"The best way to understand a system is to build one."*
-
-</div>
